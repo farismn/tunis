@@ -1,0 +1,3 @@
+{:paths   ["src"]
+ :deps    {org.clojure/clojure {:mvn/version "1.10.2-alpha4"}}
+ :aliases {:dev {:extra-deps {metosin/sieppari {:mvn/version "0.0.0-alpha13"}}}}}
